@@ -1,9 +1,11 @@
 ### Hi there 👋 I'm Rihards Jastržemskis
 ---
 
----
+
 Always expanding my knowledge and at the moment focused on C# and C++
 You can reach me : r.jastrzemskis@gmail.com | linkedin.com/in/rjastrzemskis
+
+---
 Skills:
 - Git
 - C++
