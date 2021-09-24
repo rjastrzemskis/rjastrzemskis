@@ -17,6 +17,10 @@ Always expanding my knowledge and at the moment focused on C# and C++
 - Design Patterns
 - HTML & CSS, VueJS, TypeScript & NodeJS basics
 
+**Projects**  
+[Scooter Rental Class Library](https://github.com/rjastrzemskis/Scooter-rental-service) 
+[Flight Planner API](https://github.com/rjastrzemskis/Flight-Planner) 
+
 
 <!--
 **rjastrzemskis/rjastrzemskis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
