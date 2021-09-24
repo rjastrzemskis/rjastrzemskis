@@ -18,7 +18,7 @@ Always expanding my knowledge and at the moment focused on C# and C++
 - HTML & CSS, VueJS, TypeScript & NodeJS basics
 
 **Projects**  
-[Scooter Rental Class Library](https://github.com/rjastrzemskis/Scooter-rental-service) 
+[Scooter Rental Class Library](https://github.com/rjastrzemskis/Scooter-rental-service) , 
 [Flight Planner API](https://github.com/rjastrzemskis/Flight-Planner) 
 
 
