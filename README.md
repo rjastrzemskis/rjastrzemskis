@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Rihards Jastržemskis , right now expanding my knowledge and focused on C# and C++.
+### Hi there 👋 I'm Rihards Jastržemskis
 
-
+---
 
 Skills:
 - Git
@@ -15,6 +15,7 @@ Skills:
 - Design Patterns
 - HTML & CSS, VueJS, TypeScript & NodeJS basics
 
+---
 <!--
 **rjastrzemskis/rjastrzemskis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
