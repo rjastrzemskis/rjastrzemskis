@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Rihards Jastržemskis
-
 ---
-
+Always expanding my knowledge and at the moment focused on C# and C++
+You can reach me : r.jastrzemskis@gmail.com | linkedin.com/in/rjastrzemskis
+---
 Skills:
 - Git
 - C++
@@ -14,8 +15,8 @@ Skills:
 - Clean Code, SOLID
 - Design Patterns
 - HTML & CSS, VueJS, TypeScript & NodeJS basics
-
 ---
+
 <!--
 **rjastrzemskis/rjastrzemskis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
