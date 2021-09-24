@@ -2,7 +2,7 @@
 
 Always expanding my knowledge and at the moment focused on C# and C++
 
-📫 You can reach me on: r.jastrzemskis@gmail.com | linkedin.com/in/rjastrzemskis
+📫 You can reach me on: r.jastrzemskis@gmail.com | www.linkedin.com/in/rjastrzemskis
 
 Skills:
 - Git
