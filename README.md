@@ -1,4 +1,19 @@
-### Hi there, I am expanding my knowledge and at the moment focused on C# and C++
+### Hi there 👋 I'm Rihards Jastržemskis , right now expanding my knowledge and focused on C# and C++.
+
+
+
+Skills:
+- Git
+- C++
+- C#
+- .NET
+- Relational Databases & SQL
+- HTTP & Web API Basics
+- Unit Testing
+- Test Driven Development
+- Clean Code, SOLID
+- Design Patterns
+- HTML & CSS, VueJS, TypeScript & NodeJS basics
 
 <!--
 **rjastrzemskis/rjastrzemskis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
