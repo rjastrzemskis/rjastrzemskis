@@ -20,7 +20,9 @@ Always expanding my knowledge and at the moment focused on C# and C++
 **Projects**  
 [Scooter Rental Class Library](https://github.com/rjastrzemskis/Scooter-rental-service) , 
 [Flight Planner API](https://github.com/rjastrzemskis/Flight-Planner) ,
-[Country Spring Boot]( https://github.com/rjastrzemskis/28Stone_Homework) 
+[Country Spring Boot]( https://github.com/rjastrzemskis/28Stone_Homework) ,
+[Struct Queue](https://github.com/rjastrzemskis/University/tree/main/3%20semester/LineQueue) ,
+[LinkedLists](https://github.com/rjastrzemskis/University/tree/main/3%20semester/List) 
 
 
 <!--
