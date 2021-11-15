@@ -22,7 +22,7 @@ Always expanding my knowledge and at the moment focused on C# and C++
 [Flight Planner API](https://github.com/rjastrzemskis/Flight-Planner) ,
 [Country Spring Boot]( https://github.com/rjastrzemskis/28Stone_Homework) ,
 [Struct Queue](https://github.com/rjastrzemskis/University/tree/main/3%20semester/LineQueue) ,
-[LinkedLists](https://github.com/rjastrzemskis/University/tree/main/3%20semester/List) 
+[Linked Lists](https://github.com/rjastrzemskis/University/tree/main/3%20semester/List) 
 
 
 <!--
