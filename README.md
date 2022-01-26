@@ -5,17 +5,7 @@ Always expanding my knowledge and at the moment focused on C# and C++
 📫 You can reach me on: r.jastrzemskis@gmail.com | www.linkedin.com/in/rjastrzemskis
 
 **Skills:**
-- Git
-- C++
-- C#
-- .NET
-- Relational Databases & SQL
-- HTTP & Web API Basics
-- Unit Testing
-- Test Driven Development
-- Clean Code, SOLID
-- Design Patterns
-- HTML & CSS, VueJS, TypeScript & NodeJS basics
+- Git, C++, C#, .NET, Relational Databases & SQL, HTTP & Web API Basics, Unit Testing, Test Driven Development, Clean Code, SOLID, Design Patterns, HTML & CSS, VueJS, TypeScript & NodeJS basics, Python
 
 **Projects**  
 [Scooter Rental Class Library](https://github.com/rjastrzemskis/Scooter-rental-service) , 
