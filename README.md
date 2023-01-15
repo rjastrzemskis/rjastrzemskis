@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Rihards Jastržemskis
 
-Always expanding my knowledge and at the moment focused on C# and C++
+I am constantly seeking to expand my knowledge and currently, I am dedicating a significant amount of time to studying and mastering the C# and C++ programming languages. I am excited to continue learning about these languages, as well as others, in order to further develop my skills and knowledge in the field of programming.
 
 📫 You can reach me on: r.jastrzemskis@gmail.com | www.linkedin.com/in/rjastrzemskis
 
@@ -17,6 +17,8 @@ Always expanding my knowledge and at the moment focused on C# and C++
 - Design Patterns
 - Python
 - HTML & CSS, VueJS, TypeScript & NodeJS basics 
+- PowerBI
+- Power Automate & ArcESB
 
 **Projects**  
 [Scooter Rental Class Library](https://github.com/rjastrzemskis/Scooter-rental-service) , 
